@@ -22,3 +22,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Project Not Complete
+This is because the weather API was not properly configured.
+we'll resolve this issue in due course and free time
